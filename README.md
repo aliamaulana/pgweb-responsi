@@ -32,7 +32,7 @@ Buleleng Dream Destination merupakan platform WebGIS yang memandu Anda dalam pet
 
 <h2>Tangkapan Layar Komponen Penting</h2>
 <ol>
-  <li>Landing Page</li> <img src = "assets/img/foto/cover.png" width = "100">
-  <li>Peta Sebaran Wisata (Integrasi WebGIS dan Database)</li> <img src = "assets/img/foto/wisata.png" width = "100">
-  <li>Peta Sebaran Resort/Hotel  (Integrasi WebGIS dan Database) </li> <img src = "assets/img/foto/penginapan.png" width = "100">
+  <li>Landing Page</li> <img src = "assets/img/foto/cover.png" width = "300">
+  <li>Peta Sebaran Wisata (Integrasi WebGIS dan Database)</li> <img src = "assets/img/foto/wisata.png" width = "300">
+  <li>Peta Sebaran Resort/Hotel  (Integrasi WebGIS dan Database) </li> <img src = "assets/img/foto/penginapan.png" width = "300">
 </ol>
